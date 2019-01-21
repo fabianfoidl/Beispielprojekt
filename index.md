@@ -1,5 +1,5 @@
 # Beispieldokument
-Diese Beispieldokument beinhaltet Text.
+Diese Beispieldokument beinhaltet diverse Text.
 
 ## Lorem ipsum
 Unterkapitel
